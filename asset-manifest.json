@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tandon-syllabi/static/css/main.df53f3e1.chunk.css",
+    "main.js": "/tandon-syllabi/static/js/main.452adcfc.chunk.js",
+    "main.js.map": "/tandon-syllabi/static/js/main.452adcfc.chunk.js.map",
+    "runtime-main.js": "/tandon-syllabi/static/js/runtime-main.11f9bc68.js",
+    "runtime-main.js.map": "/tandon-syllabi/static/js/runtime-main.11f9bc68.js.map",
+    "static/css/2.0a1ff45a.chunk.css": "/tandon-syllabi/static/css/2.0a1ff45a.chunk.css",
+    "static/js/2.0ecddf61.chunk.js": "/tandon-syllabi/static/js/2.0ecddf61.chunk.js",
+    "static/js/2.0ecddf61.chunk.js.map": "/tandon-syllabi/static/js/2.0ecddf61.chunk.js.map",
+    "static/js/3.67992868.chunk.js": "/tandon-syllabi/static/js/3.67992868.chunk.js",
+    "static/js/3.67992868.chunk.js.map": "/tandon-syllabi/static/js/3.67992868.chunk.js.map",
+    "index.html": "/tandon-syllabi/index.html",
+    "static/css/2.0a1ff45a.chunk.css.map": "/tandon-syllabi/static/css/2.0a1ff45a.chunk.css.map",
+    "static/css/main.df53f3e1.chunk.css.map": "/tandon-syllabi/static/css/main.df53f3e1.chunk.css.map",
+    "static/js/2.0ecddf61.chunk.js.LICENSE.txt": "/tandon-syllabi/static/js/2.0ecddf61.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tandon-syllabi/static/media/logo.6ce24c58.svg",
+    "static/media/index.css": "/tandon-syllabi/static/media/roboto-latin-900italic.cb5ad999.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f9bc68.js",
+    "static/css/2.0a1ff45a.chunk.css",
+    "static/js/2.0ecddf61.chunk.js",
+    "static/css/main.df53f3e1.chunk.css",
+    "static/js/main.452adcfc.chunk.js"
+  ]
+}
