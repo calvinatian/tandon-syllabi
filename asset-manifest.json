@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tandon-syllabi/static/css/main.9cf79b05.chunk.css",
-    "main.js": "/tandon-syllabi/static/js/main.b1e1adcb.chunk.js",
-    "main.js.map": "/tandon-syllabi/static/js/main.b1e1adcb.chunk.js.map",
+    "main.js": "/tandon-syllabi/static/js/main.452adcfc.chunk.js",
+    "main.js.map": "/tandon-syllabi/static/js/main.452adcfc.chunk.js.map",
     "runtime-main.js": "/tandon-syllabi/static/js/runtime-main.11f9bc68.js",
     "runtime-main.js.map": "/tandon-syllabi/static/js/runtime-main.11f9bc68.js.map",
     "static/css/2.0a1ff45a.chunk.css": "/tandon-syllabi/static/css/2.0a1ff45a.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.0a1ff45a.chunk.css",
     "static/js/2.0ecddf61.chunk.js",
     "static/css/main.9cf79b05.chunk.css",
-    "static/js/main.b1e1adcb.chunk.js"
+    "static/js/main.452adcfc.chunk.js"
   ]
 }
